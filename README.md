@@ -17,7 +17,7 @@ Java/Spring 기반 백엔드와 팀 프로젝트를 중심으로 실무형 개�
 - Java/Spring Boot 기반 API 서버, 데이터 모델링, 캐싱, 배포 흐름에 관심이 많습니다.
 - 팀 프로젝트에서 백엔드 구현과 프론트엔드 연동을 함께 경험하며 전체 서비스 흐름을 이해하려고 합니다.
 - TDD, 코드 리뷰, 문서화처럼 오래 유지되는 개발 습관을 꾸준히 연습하고 있습니다.
-- GPT와 Claude를 함께 활용해 설계 검토, 코드 개선, 학습 정리를 더 효율적으로 진행합니다.
+- ChatGPT와 Claude를 함께 활용해 설계 검토, 코드 개선, 학습 정리를 더 효율적으로 진행합니다.
 
 ---
 
@@ -66,8 +66,8 @@ Java/Spring 기반 백엔드와 팀 프로젝트를 중심으로 실무형 개�
 ### AI Collaboration
 
 <p>
-  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Java/Spring 기반 백엔드와 팀 프로젝트를 중심으로 실무형 개�
 
 | Tool | How I Use It |
 | --- | --- |
-| GPT / ChatGPT | 요구사항 정리, API 설계 초안, 테스트 케이스 아이디어, README/문서 다듬기 |
+| ChatGPT | 요구사항 정리, API 설계 초안, 테스트 케이스 아이디어, README/문서 다듬기 |
 | Claude / Claude Code | 긴 코드 흐름 분석, 리팩터링 방향 검토, VS Code 확장 및 자동화 작업 보조 |
 
 AI의 제안은 그대로 반영하기보다, 프로젝트 맥락과 동작 원리를 검증한 뒤 학습과 구현에 활용합니다.
